@@ -2,11 +2,11 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
+    scroll-behavior: smooth;
 }
 body {
     background-color:#F5EEE8;
     overflow-x:hidden;
-    scroll-behavior: smooth;
 }
 .header {
     position:fixed;
