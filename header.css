@@ -84,4 +84,6 @@ body {
 
 .main_header {
     font-family: 'Abhaya Libre';
+    background-repeat: no-repeat;
+    background-size: cover;
 }
