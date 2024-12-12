@@ -15,7 +15,7 @@
     height:2.5px;
     background-color:#8b8a6d;
     margin:20px 0;
-    width:100vw !important;
+    width:100%;
     position:relative;
     left:50%;
     transform:translateX(-50%);
@@ -118,19 +118,19 @@
 }
 
 .mailing-title p {
-    font-size:0.9rem;
+    font-size:0.9rem !important;
     color:#555;
     /* max-width:600px; */
-    margin-right:10px;
+    margin-right:10px !important;
     font-family:'Gantari';
 }
 .sign-up-button {
-    padding:5px 20px;
+    padding:5px 20px !important;
     background-color:#d4c4b8;
     color:#333;
     border:2px solid #8b8a6d;
     border-radius:5px;
-    font-size:0.9rem;
+    font-size:0.9rem !important;
     cursor:pointer;
     font-weight:bold;
     transition:background-color 0.3s,color 0.3s;

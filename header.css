@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
 body {
     background-color:#F5EEE8;
@@ -86,4 +86,6 @@ body {
     font-family: 'Abhaya Libre';
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
+    height: 25vh !important;
 }
